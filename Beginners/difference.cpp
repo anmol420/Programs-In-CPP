@@ -1,6 +1,7 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout<<"Difference = "<<6-4<<std::endl;
+    cout<<"Difference = "<<6-4<<endl;
     return 0;
 }

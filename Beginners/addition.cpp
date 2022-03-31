@@ -1,6 +1,7 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout<<"Sum = "<<4+4<<std::endl;
+    cout<<"Sum = "<<4+4<<endl;
     return 0;
 }
